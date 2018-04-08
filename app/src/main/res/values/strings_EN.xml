@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ShopAt24</string>
+    <string name="enterprise_device_admin">Shop At 24</string>
+    <string name="enterprise_device_admin_description">Sample code for writing a DeviceAdmin class.</string>
+    <string name="confirm">ใช่</string>
+    <string name="cancel">ไม่</string>
+</resources>
